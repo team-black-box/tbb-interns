@@ -37,5 +37,5 @@ proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
 Since this page serves as an official Team Black Box resume for you. You can add your **Work History**, starting from your internship here to any **Posittion** you hold in any company after graduating.
 
 - **`Position`** ~ This is the position you worked for during your internship, (e.g. _React Developer_, _React Native Developer_, _UI/UX Designer_, e.t.c.)
-- **`Company Name`** ~ Here you can add the company name
+- **`Company Name`** ~ Enter the full name of the Company
 - **`Date`** ~ The month you started and month you resign/graduated, if still working use the word **`Present`**. (e.g. **`January - Present, 2023`**)
