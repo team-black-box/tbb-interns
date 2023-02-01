@@ -1,34 +1,41 @@
-<img src="https://github.com/team-black-box/tbb/blob/tbb-members-page/Assets/hands.svg" alt="Hands Hello"><br /><br />
+# Instructions
 
-# Frontend Developer
-
-My name is Yahaya Muhammad Bello and thank you for taking your time to check my profile. I have been web developer for the past 4 years, to avoid being jack-of-all-trade I narrow down option for myself and specialize in Frontend Development with React. I am someone who is always seeking to learn and develop, outside of work I keep myself fit and active; I am a positive person who always embraces change, and I always take responsibility for my own professional development.
-
-<br />
-
-# Projects
-
-### Take A Sip
-
-Take A Sip was built in the first ever 48 hour monthly hackathon at Team Black Box, to help create a fun way to build a healthy habit of drinking water at regular intervals.
-
-**`Hackathon No.:`** #1<br />
-**`Date:`** 26th & 27th November, 2022
+Be sure to be updating this page regularly, for it has the potential to get you your dream job 💼.
+tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
+quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
+consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
+cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
+proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
 
 <br />
 
-### I Won’t Forget
+# Step 1 - Postion
 
-I Won't Forget was built in the second ever 48 hour monthly hackathon at Team Black Box by our interns, alumni and us (The co-founders) on 21st & 22nd November 2022.
-
-**`Hackathon No.:`** #2<br />
-**`Date:`** 21<sup>st</sup> & 22<sup>nd</sup> January, 2022
+**`Position`** ~ This is the position you worked for during your internship, (e.g. _React Developer_, _React Native Developer_, _UI/UX Designer_, e.t.c.)
 
 <br />
 
-# Work History
+# Step 2 - About Me
 
-### Student Intern
+**`About Me`** ~ This is the section where you tell about yourself (`Be Professional while doing it`).
 
-Team Black Box Private Ltd.<br />
-**`January - June, 2023`**
+<br />
+
+# Step 3 - Projects Worked On
+
+**`Projects Worked On`** ~ In this section, you would add all the project you've worked during period of your internship.
+
+- **Project Name** ~ This is the offial Name of a Project
+- **Project Description** ~ This is the paragraph below the **`Project Name`**, here you can add the description of the project.
+- **Hackathon No.** ~ If the project was a **`Hackathon Project`**, then you enter the **`Hackathon No`**, else if it's not a **`Hackaton Project`**, then remove the line entirely.
+- **Data** ~ For this part enter the date you started working on the project
+
+<br />
+
+# Step 4 - Work History
+
+Since this page serves as an official Team Black Box resume for you. You can add your **Work History**, starting from your internship here to any **Posittion** you hold in any company after graduating.
+
+- **`Position`** ~ This is the position you worked for during your internship, (e.g. _React Developer_, _React Native Developer_, _UI/UX Designer_, e.t.c.)
+- **`Company Name`** ~ Here you can add the company name
+- **`Date`** ~ Here is where you add the date you started and date you resign/graduated, if still working use the word **`Present`**.
