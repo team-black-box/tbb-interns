@@ -25,10 +25,10 @@ proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
 
 **`Projects Worked On`** ~ In this section, you would add all the project you've worked during period of your internship.
 
-- **Project Name** ~ This is the offial Name of a Project
-- **Project Description** ~ This is the paragraph below the **`Project Name`**, here you can add the description of the project.
-- **Hackathon No.** ~ If the project was a **`Hackathon Project`**, then you enter the **`Hackathon No`**, else if it's not a **`Hackaton Project`**, then remove the line entirely.
-- **Data** ~ For this part enter the date you started working on the project
+- **Project Name** ~ There goes a Project name
+- **Project Description** ~ This is the paragraph below the **`Project Name`**, there you can add the description of the project.
+- **Hackathon No.** ~ If the project was a **`Hackathon Project`**, then enter the **`Hackathon No`**, else if it's not a **`Hackaton Project`**, then remove the line entirely.
+- **Data** ~ Date you started working on the project
 
 <br />
 
@@ -38,4 +38,4 @@ Since this page serves as an official Team Black Box resume for you. You can add
 
 - **`Position`** ~ This is the position you worked for during your internship, (e.g. _React Developer_, _React Native Developer_, _UI/UX Designer_, e.t.c.)
 - **`Company Name`** ~ Here you can add the company name
-- **`Date`** ~ Here is where you add the date you started and date you resign/graduated, if still working use the word **`Present`**.
+- **`Date`** ~ The month you started and month you resign/graduated, if still working use the word **`Present`**. (e.g. **`January - Present, 2023`**)
