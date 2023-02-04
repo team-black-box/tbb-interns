@@ -1,4 +1,4 @@
-# 👋<br /><br />
+# <img src="assets/hands.svg" /><br /><br />
 
 # Frontend Developer
 
