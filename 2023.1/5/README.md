@@ -23,8 +23,6 @@ I Won't Forget was built in the second ever 48 hour monthly hackathon at [Team B
     Hackathon No.: #3
     Date: Data Goes Here
 
-<br />
-
 ### **Take A Sip**
 
 Take A Sip was built in the first ever 48 hour monthly hackathon [Team Black Box]("https://teamblackbox.in") by our interns (Shruthi & Aditya) and us (The co-founders) on 26th & 27th November 2022.
