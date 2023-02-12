@@ -1,4 +1,4 @@
-# <img src="assets/hands.svg" /><br /><br />
+# <img src="https://github.com/team-black-box/tbb-interns/raw/main/2023.1/5/assets/hands.svg" /><br /><br />
 
 # Frontend Developer
 
