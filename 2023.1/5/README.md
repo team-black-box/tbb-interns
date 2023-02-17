@@ -35,5 +35,5 @@ Take A Sip was built in the first ever 48 hour monthly hackathon [Team Black Box
 
 ### **Frontend Developer Intern**
 
-Team Black Box Private Ltd.<br />
+Team Black Box Private Ltd.
 **`January - June, 2023`**
