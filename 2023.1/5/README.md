@@ -1,5 +1,7 @@
-<img src="https://github.com/team-black-box/tbb-interns/raw/main/2023.1/5/assets/hands.svg" /> <br /> <br />
+![Waving Hand](https://github.com/team-black-box/tbb-interns/raw/main/2023.1/5/assets/hands.svg)
 
+
+#
 # Frontend Developer
 
 ### **About Me**
@@ -12,7 +14,6 @@ I like to read self-development books and I always have a good book on the go at
 Check this link for my articles
 https://medium.com/@mbyahya2579
 
-<br />
 
 # Projects Worked On
 
@@ -29,9 +30,7 @@ Take A Sip was built in the first ever 48 hour monthly hackathon [Team Black Box
 
     Hackathon No.: #2
     Date: Data Goes Here
-
-<br />
-
+    
 # Work History
 
 ### **Frontend Developer Intern**
