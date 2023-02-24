@@ -22,14 +22,14 @@ https://medium.com/@mbyahya2579
 I Won't Forget was built in the second ever 48 hour monthly hackathon at [Team Black Box]("https://teamblackbox.in") by our interns, alumni and us (The co-founders) on 21st & 22nd November 2022.
 
     Hackathon No.: #3
-    Date: Data Goes Here
+    Date: 21st & 22nd November 2022
 
 ### **Take A Sip**
 
 Take A Sip was built in the first ever 48 hour monthly hackathon [Team Black Box]("https://teamblackbox.in") by our interns (Shruthi & Aditya) and us (The co-founders) on 26th & 27th November 2022.
 
     Hackathon No.: #2
-    Date: Data Goes Here
+    Date: 26th & 27th November 2022
     
 # Work History
 
